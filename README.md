@@ -42,7 +42,7 @@ The analysis will show:
 
 📷 Dashboard Preview
 
-<img width="2279" height="1353" alt="Screenshot 2025-08-14 120405" src="https://github.com/user-attachments/assets/77dcc732-1f08-4d67-8451-71e0f748b968" />
+<img width="2258" height="1338" alt="Screenshot 2025-08-15 125505" src="https://github.com/user-attachments/assets/ae0a936b-beca-40b5-bd18-c8acf82868b0" />
 
 The Tableau dashboard includes:
 
